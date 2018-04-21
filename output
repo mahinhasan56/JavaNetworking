@@ -1,0 +1,13 @@
+Package:com.FaysalBinHasan
+DatagramServer
+
+
+Data::This is a datagram packet
+
+
+Package:SocketProgramming
+Server
+Server running at port 33333
+
+Package:SocketProgrammingObject
+Server starts:java.net.BindException: Address already in use: JVM_Bind
